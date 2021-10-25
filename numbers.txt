@@ -1,0 +1,5 @@
+$ This text file contains a list of phone numbers of
+$ people who would like to receive daily text messages.
+$ any lines starting with "$" are ignored.
+$
++15859675899

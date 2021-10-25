@@ -1,0 +1,2 @@
+# ignores environment variables to keep my API keys safe
+.env
